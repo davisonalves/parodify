@@ -28,3 +28,7 @@ Funcionalidade: Cadastro de Usuários
             | davison@email.com |       |                | Oops! Informe sua senha.             |
             | davison@email.com | 12345 | 11145          | Oops! Senhas não são iguais.         |
             |                   |       |                | Oops! Informe seu email e sua senha. |
+
+    Cenario: Validação do campo email
+        Quando acesso a página de cadastro
+        Então deve exibir o seguinte css: "input[type=email]"
