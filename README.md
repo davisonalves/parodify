@@ -24,6 +24,9 @@ Validando a aplicação **Parodify**, utilizando Ruby, Capybara, Cucumber, Selen
 - [ ] Reproduzir uma paródia
 - [ ] Adicionar a paródia aos seus favoritos 
 
+**‼️Obs‼️** As features rodam com casos de sucesso e casos de falha.
 ## Rodando a feature de cadastro:
+![2021-05-28-17-49-59](https://user-images.githubusercontent.com/53572219/120045315-b2994980-bfdd-11eb-9a06-61835d750ce9.gif)
 
-
+## Rodando a feature de login:
+![2021-05-28-18-00-47](https://user-images.githubusercontent.com/53572219/120045955-1d975000-bfdf-11eb-8676-32fe5f22f255.gif)
