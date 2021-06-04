@@ -6,7 +6,6 @@ Validando a aplicação **Parodify**, utilizando Ruby, Capybara, Cucumber, Selen
 - Cadastro
 - Login
 - Reproduzir uma paródia
-- Adicionar a paródia aos seus favoritos
 
 ![image](https://user-images.githubusercontent.com/53572219/120017224-a13b4780-bfb3-11eb-93d2-c53b61c04818.png)
 
@@ -16,13 +15,11 @@ Validando a aplicação **Parodify**, utilizando Ruby, Capybara, Cucumber, Selen
 1. Cadastro
 2. Login
 3. Reproduzir uma paródia
-4. Adicionar a paródia aos seus favoritos
 
 ## Validado até agora:
 - [x] Cadastro
 - [x] Login
-- [ ] Reproduzir uma paródia
-- [ ] Adicionar a paródia aos seus favoritos 
+- [x] Reproduzir uma paródia
 
 **‼️Obs‼️** As features rodam com casos de sucesso e casos de falha.
 ## Rodando a feature de cadastro:
@@ -30,3 +27,9 @@ Validando a aplicação **Parodify**, utilizando Ruby, Capybara, Cucumber, Selen
 
 ## Rodando a feature de login:
 ![2021-05-28-18-00-47](https://user-images.githubusercontent.com/53572219/120045955-1d975000-bfdf-11eb-8676-32fe5f22f255.gif)
+
+## Rodando a feature de paródia:
+![2021-06-04-18-06-42](https://user-images.githubusercontent.com/53572219/120867471-fcdf7500-c55f-11eb-9a58-b85c5879f22c.gif)
+
+## Também usei Allure para gerar os relatórios de teste:
+![image](https://user-images.githubusercontent.com/53572219/120867847-c524fd00-c560-11eb-8ee1-9d7fb2ebfcb9.png)
