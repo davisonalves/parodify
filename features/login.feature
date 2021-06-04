@@ -7,7 +7,7 @@ Funcionalidade: Login
 
     Cenario: Login do usuário
         Dado que acesso a página de login
-        Quando submeto minhas credenciais com: "davison@email.com" e "1234567"
+        Quando submeto minhas credenciais com: "davison@login.com" e "1234567"
         Então devo ser redirecionado para a área logada
 
     Esquema do Cenário: Tentativa de login
