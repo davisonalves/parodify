@@ -32,4 +32,5 @@ Validando a aplicação **Parodify**, utilizando Ruby, Capybara, Cucumber, Selen
 ![2021-06-04-18-06-42](https://user-images.githubusercontent.com/53572219/120867471-fcdf7500-c55f-11eb-9a58-b85c5879f22c.gif)
 
 ## Também usei Allure para gerar os relatórios de teste:
-![image](https://user-images.githubusercontent.com/53572219/120867847-c524fd00-c560-11eb-8ee1-9d7fb2ebfcb9.png)
+![image](https://user-images.githubusercontent.com/53572219/120869472-8db84f80-c564-11eb-81f5-e058eee4b0f9.png)
+
